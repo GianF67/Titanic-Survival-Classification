@@ -1,12 +1,12 @@
 # Titanic Survival Analysis
-Using the data from the <a href="https://www.kaggle.com/c/titanic/overview">Titanic - Machine Learning from Disaster Kaggle competition</a>, a model that predicts which passengers survived the Titanic shipwreck will be created.
+Welcome to the Titanic Survival Analysis repository! This project utilizes the dataset from the Titanic - Machine Learning from Disaster competition hosted by Kaggle. The goal is to develop a predictive model that determines which passengers survived the Titanic tragedy.
+This project is implemented using PySpark and is designed to be run on Google Colab, offering a robust environment for large-scale data processing and model development.
 
-This will be done using PySpark on Google Colab.
-
-What will you find in this repo:
-
-Data cleaning and EDA
-Classifications algorithms considered
-Hyperparameter tuning
-Compare the best models
-Predict survival of Titanic passengers# cloud-and-cognitive-services
+## Features
+The repository contains:
+- Data Cleaning: Scripts and notebooks dedicated to preparing the Titanic dataset for analysis.
+- EDA: Notebooks that explore the dataset through visualizations and statistics to identify patterns and insights.
+- Machine Learning Algorithms: Evaluation of different classification algorithms to find the most effective predictor for survival.
+- Hyperparameter Tuning: Techniques and processes used to optimize the parameters for the best model performance.
+- Model Comparison: Comparative analysis of the models to select the most accurate one for predicting survival.
+- Survival Prediction: Final model application to predict the survival outcomes of the Titanic passengers.
